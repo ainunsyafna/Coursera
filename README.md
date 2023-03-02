@@ -1,1 +1,1 @@
-# Coursera-Introduction-to-GitHub
+# Coursera
